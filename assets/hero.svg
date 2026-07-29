@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    width="1600"
+    height="500"
+    viewBox="0 0 1600 500"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+
+        <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500">
+            <stop offset="0%" stop-color="#0D1117"/>
+            <stop offset="100%" stop-color="#161B22"/>
+        </linearGradient>
+
+        <linearGradient id="blue" x1="0" y1="0" x2="1600" y2="0">
+            <stop offset="0%" stop-color="#58A6FF"/>
+            <stop offset="100%" stop-color="#00E5FF"/>
+        </linearGradient>
+
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="8" result="blur"/>
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+    </defs>
+
+    <!-- Background -->
+
+    <rect
+        width="1600"
+        height="500"
+        rx="18"
+        fill="url(#bg)"
+    />
+
+    <!-- Grid -->
+
+    <g opacity="0.08">
+
+        <!-- Vertical -->
+
+        <line x1="100" y1="0" x2="100" y2="500" stroke="#58A6FF"/>
+        <line x1="200" y1="0" x2="200" y2="500" stroke="#58A6FF"/>
+        <line x1="300" y1="0" x2="300" y2="500" stroke="#58A6FF"/>
+        <line x1="400" y1="0" x2="400" y2="500" stroke="#58A6FF"/>
+        <line x1="500" y1="0" x2="500" y2="500" stroke="#58A6FF"/>
+        <line x1="600" y1="0" x2="600" y2="500" stroke="#58A6FF"/>
+        <line x1="700" y1="0" x2="700" y2="500" stroke="#58A6FF"/>
+        <line x1="800" y1="0" x2="800" y2="500" stroke="#58A6FF"/>
+        <line x1="900" y1="0" x2="900" y2="500" stroke="#58A6FF"/>
+        <line x1="1000" y1="0" x2="1000" y2="500" stroke="#58A6FF"/>
+        <line x1="1100" y1="0" x2="1100" y2="500" stroke="#58A6FF"/>
+        <line x1="1200" y1="0" x2="1200" y2="500" stroke="#58A6FF"/>
+        <line x1="1300" y1="0" x2="1300" y2="500" stroke="#58A6FF"/>
+        <line x1="1400" y1="0" x2="1400" y2="500" stroke="#58A6FF"/>
+        <line x1="1500" y1="0" x2="1500" y2="500" stroke="#58A6FF"/>
+
+        <!-- Horizontal -->
+
+        <line x1="0" y1="100" x2="1600" y2="100" stroke="#58A6FF"/>
+        <line x1="0" y1="200" x2="1600" y2="200" stroke="#58A6FF"/>
+        <line x1="0" y1="300" x2="1600" y2="300" stroke="#58A6FF"/>
+        <line x1="0" y1="400" x2="1600" y2="400" stroke="#58A6FF"/>
+
+    </g>
+
+    <!-- Glow -->
+
+    <circle
+        cx="800"
+        cy="250"
+        r="180"
+        fill="#58A6FF"
+        opacity="0.10"
+        filter="url(#glow)"
+    />
+
+    <!-- Main Title -->
+
+    <text
+        x="800"
+        y="190"
+        text-anchor="middle"
+        font-size="78"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-weight="700"
+        fill="white">
+
+        AURITRA
+
+    </text>
+
+    <!-- Accent Line -->
+
+    <rect
+        x="570"
+        y="220"
+        width="460"
+        height="4"
+        rx="2"
+        fill="url(#blue)"
+    />
+
+    <!-- Subtitle -->
+
+    <text
+        x="800"
+        y="275"
+        text-anchor="middle"
+        font-size="28"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="#58A6FF">
+
+        Privacy • AI • Open Source
+
+    </text>
+
+    <!-- Description -->
+
+    <text
+        x="800"
+        y="330"
+        text-anchor="middle"
+        font-size="20"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="#C9D1D9">
+
+        Building software that is secure, elegant, and genuinely useful.
+
+    </text>
+
+    <!-- Bottom Line -->
+
+    <rect
+        x="420"
+        y="390"
+        width="760"
+        height="2"
+        fill="#30363D"
+    />
+
+    <!-- Footer -->
+
+    <text
+        x="800"
+        y="430"
+        text-anchor="middle"
+        font-size="16"
+        font-family="Consolas, monospace"
+        fill="#8B949E">
+
+        Computer Science • Linux • Privacy Engineering • Artificial Intelligence
+
+    </text>
+
+</svg>
