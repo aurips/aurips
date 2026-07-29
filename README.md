@@ -1,169 +1,102 @@
-<!-- ========================================================= -->
-<!--                    AURITRA GITHUB PROFILE                  -->
-<!--                  Version 1.0 • Premium Base               -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# AURITRA
+# Auritra
 
-### Building Privacy • AI • Open Source
+### Privacy • AI • Open Source
+
+Building software that is secure, elegant, and genuinely useful.
 
 <p>
-A Computer Science student passionate about building software that is
-secure, elegant, and genuinely useful.
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat-square&color=58A6FF" />
 </p>
 
 </div>
 
 ---
 
-# 👋 About Me
+# About
 
-```text
-Name      :: Auritra
-
-Location  :: Bangladesh
-
-Role      :: Computer Science Student
-
-Mission   :: Build technology that respects people.
-
-Focus     :: Privacy • AI • Software Engineering
-
-Current   :: Learning every single day.
+```yaml
+name: Auritra
+role: Computer Science Student
+location: Bangladesh
+focus:
+  - Privacy
+  - Artificial Intelligence
+  - Software Engineering
+currently_learning:
+  - Git
+  - GitHub
+  - Linux
+  - C++
+  - Python
+mission: >
+  Build technology that respects people.
 ```
 
 ---
 
-# 🚀 Current Focus
+# Tech
 
-- Learning Git & GitHub
-- Learning C++
-- Learning Python
-- Learning Web Development
-- Exploring Linux
-- Building real projects
-- Improving problem-solving skills
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,html,css,js,cpp,python&perline=9"/>
+
+</p>
 
 ---
 
-# 🧠 Philosophy
+# Current Goals
 
-> Great software should empower users—not exploit them.
-
----
-
-# 🛠 Technologies
-
-### Currently Learning
-
-- Git
-- GitHub
-- Linux
-- HTML
-- CSS
-- JavaScript
-- Python
-- C++
+- Master Git & GitHub
+- Build real software projects
+- Learn modern C++
+- Learn Python
+- Learn Backend Development
+- Contribute to Open Source
 
 ---
 
-# 🎯 Long-Term Interests
+# Future Projects
 
-- Artificial Intelligence
-- Operating Systems
-- Backend Development
-- Cybersecurity
-- Privacy Engineering
-- Open Source
-- Distributed Systems
-
----
-
-# 🚧 Future Projects
-
-### 🌌 Auri
-
-A focused ecosystem for studying and productivity.
+| Project | Status |
+|----------|--------|
+| Auri | 🟡 Planning |
+| PrivoMind | 🟡 Planning |
+| LimoKos OS | 🟡 Planning |
+| SciFi Kaku | 🟡 Planning |
 
 ---
 
-### 🧠 PrivoMind
+# GitHub Stats
 
-A privacy-first local AI assistant.
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-### 💻 LimoKos OS
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-A modern operating system built around security and privacy.
-
----
-
-### 🔬 SciFi Kaku
-
-An online science community for learning, collaboration, and research.
+</p>
 
 ---
 
-# 📚 Learning Roadmap
+<p align="center">
 
-2026
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
-- Git
-- GitHub
-- Linux
-- C++
-- Python
-- Data Structures
-- SQL
-- Web Development
-
-2027
-
-- React
-- Node.js
-- Docker
-- PostgreSQL
-- Rust
-- Go
-
-2028+
-
-- Artificial Intelligence
-- Machine Learning
-- Systems Programming
-- Distributed Systems
+</p>
 
 ---
 
-# 📈 GitHub
+# Philosophy
 
-GitHub statistics and contribution visualizations will be added in the next phase.
-
----
-
-# 🌎 Connect
-
-Portfolio
-
-Coming Soon
-
-LinkedIn
-
-Coming Soon
-
-Website
-
-Coming Soon
+> Software should earn trust, not demand it.
 
 ---
 
 <div align="center">
 
 Thanks for visiting.
-
-See you in the next commit.
 
 </div>
