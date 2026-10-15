@@ -1,34 +1,35 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  QUICK SETUP: use Find & Replace on this whole file         ║
-     ║    (username already set to aurips)                  ║
-     ║    YOUR NAME      ->  your real name                        ║
-     ║  Then edit the links, text, skill levels and project names. ║
+     ║  USERNAME IS ALREADY SET TO: aurips                         ║
+     ║  Use Find & Replace for these, then you're done:            ║
+     ║    YOUR NAME  -> your real name                             ║
+     ║    project-one ... project-four -> your real repo names     ║
+     ║    20XX, links, email, skill levels -> your own details     ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=260&section=header&text=YOUR%20NAME&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Designer%20%C2%B7%20Builder&descSize=18&descAlignY=58" alt="header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:064e1e,100:00ff41&height=270&section=header&text=AURIPS&fontSize=78&fontColor=00ff41&fontAlignY=36&animation=fadeIn&desc=%2F%2F%20Code.%20Break.%20Build.%20Repeat.&descSize=20&descAlignY=58" alt="header" width="100%">
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="wave" width="52" height="52">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="alien" width="52" height="52">
 
 <a href="https://github.com/aurips">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=760&height=46&lines=Hey%2C+welcome+to+my+corner+of+GitHub;Building+clean+and+scalable+web+apps;Turning+complex+problems+into+simple+products;Open+source+enthusiast+%26+lifelong+learner;Let%27s+build+something+great+together" alt="typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF41&background=0D1117&center=true&vCenter=true&width=780&height=52&lines=%24+whoami;%3E+aurips+%3A%3A+full-stack+developer;%3E+initializing+creativity.exe+...;%3E+loading+modules%3A+react%2C+node%2C+python+...;%3E+ACCESS+GRANTED.+welcome%2C+human." alt="typing animation">
 </a>
 
 <br><br>
 
-<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/-Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram"></a>
+<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aurips&label=Profile%20views&color=6366F1&style=flat-square" alt="views">
-<img src="https://img.shields.io/github/followers/aurips?label=Followers&style=flat-square&color=06B6D4&logo=github" alt="followers">
-<img src="https://img.shields.io/github/stars/aurips?label=Stars&style=flat-square&color=6366F1&logo=github" alt="stars">
+<img src="https://komarev.com/ghpvc/?username=aurips&label=VISITORS&color=00FF41&labelColor=0D1117&style=flat-square" alt="views">
+<img src="https://img.shields.io/github/followers/aurips?label=FOLLOWERS&style=flat-square&color=00FF41&labelColor=0D1117&logo=github" alt="followers">
+<img src="https://img.shields.io/github/stars/aurips?label=STARS&style=flat-square&color=00FF41&labelColor=0D1117&logo=github" alt="stars">
 
 </div>
 
@@ -36,66 +37,54 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=About+Me" alt="About Me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+.%2Fabout_me.sh" alt="about">
 </div>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+```bash
+aurips@mainframe:~$ whoami
+> YOUR NAME // Full-Stack Developer
 
-```js
-const developer = {
-  name: "YOUR NAME",
-  role: "Full-Stack Developer",
-  location: "Your City, Country",
-  focus: ["Web Apps", "APIs", "UI / UX"],
-  currentlyBuilding: "PROJECT NAME",
-  currentlyLearning: "Rust & System Design",
-  askMeAbout: ["React", "Node.js", "TypeScript"],
-  funFact: "I debug best at 2 AM ☕",
-};
+aurips@mainframe:~$ cat mission.txt
+> Build clean, fast and scalable software.
+> Turn complex problems into simple products.
+> Never stop learning. Never stop shipping.
+
+aurips@mainframe:~$ ./vitals --all
+[ OK ]  Coffee .............. 100%
+[ OK ]  Curiosity ........... overclocked
+[ OK ]  Creativity .......... online
+[WARN]  Sleep ............... not found
 ```
-
-</td>
-    <td width="45%" valign="top">
-
-I design and build modern web applications with a strong focus on **simplicity**, **performance**, and **great user experience**.
-
-I love turning complex problems into clean, maintainable solutions, and I'm always exploring new tools, ideas, and better ways to build.
-
-</td>
-  </tr>
-</table>
 
 <br>
 
 <!-- ═══════════════ WHAT I DO ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=What+I+Do" alt="What I Do">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+.%2Fcapabilities+--list" alt="capabilities">
 </div>
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="64" alt="">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="60" alt="">
       <br><b>Frontend</b>
-      <br><sub>Fast, responsive and accessible interfaces with React & Next.js</sub>
+      <br><sub>Fast, responsive, accessible interfaces with React & Next.js</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="64" alt="">
-      <br><b>Backend</b>
-      <br><sub>Secure, scalable APIs and services with Node.js & Python</sub>
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="60" alt="">
+      <br><b>Backend & APIs</b>
+      <br><sub>Secure, scalable services with Node.js & Python</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" width="64" alt="">
-      <br><b>UI / UX</b>
-      <br><sub>Clean, minimal design systems that feel great to use</sub>
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="60" alt="">
+      <br><b>Automation</b>
+      <br><sub>Scripts, bots and tools that remove the boring work</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="64" alt="">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="60" alt="">
       <br><b>Problem Solving</b>
-      <br><sub>Breaking big ideas down into simple, shippable steps</sub>
+      <br><sub>Breaking big ideas into simple, shippable steps</sub>
     </td>
   </tr>
 </table>
@@ -105,7 +94,7 @@ I love turning complex problems into clean, maintainable solutions, and I'm alwa
 
 <!-- ═══════════════ RIGHT NOW ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Right+Now" alt="Right Now">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+tail+-f+%2Fvar%2Flog%2Fnow" alt="now">
 </div>
 
 <div align="center">
@@ -121,59 +110,48 @@ I love turning complex problems into clean, maintainable solutions, and I'm alwa
 
 <br>
 
-<!-- ═══════════════ JOURNEY ═══════════════ -->
+<!-- ═══════════════ MISSION LOG ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=My+Journey" alt="My Journey">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+git+log+--graph" alt="git log">
 </div>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="48" alt="">
-      <br><b>20XX</b>
-      <br><sub>Started learning to code</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="48" alt="">
-      <br><b>20XX</b>
-      <br><sub>Built my first full-stack project</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" width="48" alt="">
-      <br><b>20XX</b>
-      <br><sub>Shipped to real users</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="48" alt="">
-      <br><b>Today</b>
-      <br><sub>Building, learning and sharing</sub>
-    </td>
-  </tr>
-</table>
-</div>
+```bash
+* f3a9c1d (HEAD -> main) Today  :: building, learning and sharing
+* 8b2e7a4               20XX   :: shipped to real users
+* 5d1c0f9               20XX   :: built my first full-stack project
+* a7e3b62               20XX   :: wrote my first line of code
+```
 
 <br>
 
-<!-- ═══════════════ TECH STACK (single horizontal row) ═══════════════ -->
+<!-- ═══════════════ ARSENAL (single horizontal row, fixed icon size) ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Tech+Stack" alt="Tech Stack">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+ls+.%2Farsenal" alt="arsenal">
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,tailwind,html,css,postgres,mongodb,docker,git,figma&theme=dark&perline=15">
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,tailwind,html,css,postgres,mongodb,docker,git,figma&theme=light&perline=15" width="100%">
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React">
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git">
+</p>
 
 <br>
 
-<!-- ═══════════════ SKILL LEVELS ═══════════════ -->
+<!-- ═══════════════ SKILLS ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Skill+Levels" alt="Skill Levels">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+.%2Fskills+--verbose" alt="skills">
 </div>
 
 <table>
@@ -210,107 +188,112 @@ Git         █████████████████░░░  85%
 
 <!-- ═══════════════ STATS ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=GitHub+Stats" alt="GitHub Stats">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+.%2Fstats+--live" alt="stats">
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aurips&show_icons=true&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="185" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=aurips&show_icons=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=14532D&border_radius=8&count_private=true&include_all_commits=true&rank_icon=github" height="185" alt="GitHub stats">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurips&layout=compact&theme=transparent&title_color=6366F1&text_color=8b949e&hide_border=true&langs_count=8" height="185" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurips&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=14532D&border_radius=8&langs_count=8" height="185" alt="Top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=aurips&theme=transparent&hide_border=true&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="Streak stats">
+<img src="https://streak-stats.demolab.com?user=aurips&background=0D1117&border=14532D&stroke=14532D&ring=00FF41&fire=00E5FF&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="Streak stats">
 
 <br><br>
 
 <!-- Change utcOffset to your timezone's UTC offset (e.g. 0, 1, 5, -5) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurips&theme=github_dark&utcOffset=0">
-  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurips&theme=default&utcOffset=0" height="190">
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurips&theme=github_dark&utcOffset=0" height="190" alt="Productive time">
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurips&theme=github_dark">
-  <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurips&theme=default" height="190">
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurips&theme=github_dark" height="190" alt="Most used languages">
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=aurips&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=aurips&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=7">
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=aurips&theme=matrix&no-frame=true&margin-w=12&column=7" alt="Trophies">
 
 </div>
 
 <br>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
+<!-- These cards always show. To use live repo cards instead, replace a card with:
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=REPO_NAME&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=14532D&border_radius=8">
+-->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Featured+Projects" alt="Featured Projects">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+ls+~%2Fprojects" alt="projects">
 </div>
 
-<div align="center">
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/aurips/PROJECT_ONE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=PROJECT_ONE&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project One">
-      </a>
+    <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/aurips/project-one">project-one</a></h3>
+      <p>One clear line about what this project does and why it matters.</p>
+      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00FF41" alt="React">
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF41" alt="Node.js">
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF41" alt="PostgreSQL">
     </td>
-    <td align="center">
-      <a href="https://github.com/aurips/PROJECT_TWO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=PROJECT_TWO&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Two">
-      </a>
+    <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/aurips/project-two">project-two</a></h3>
+      <p>One clear line about what this project does and why it matters.</p>
+      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00FF41" alt="Next.js">
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00FF41" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=00FF41" alt="Tailwind">
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/aurips/PROJECT_THREE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=PROJECT_THREE&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Three">
-      </a>
+    <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/aurips/project-three">project-three</a></h3>
+      <p>One clear line about what this project does and why it matters.</p>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF41" alt="Python">
+      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00FF41" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF41" alt="Docker">
     </td>
-    <td align="center">
-      <a href="https://github.com/aurips/PROJECT_FOUR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=PROJECT_FOUR&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Four">
-      </a>
+    <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/aurips/project-four">project-four</a></h3>
+      <p>One clear line about what this project does and why it matters.</p>
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF41" alt="JavaScript">
+      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00FF41" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=00FF41" alt="Express">
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/aurips?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="Browse all repositories"></a>
 </div>
 
 <br>
 
 <!-- ═══════════════ ACTIVITY ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Contribution+Activity" alt="Contribution Activity">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+.%2Factivity+--graph" alt="activity">
 </div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aurips&bg_color=0d1117&color=8b949e&line=6366F1&point=06B6D4&area=true&area_color=6366F1&hide_border=true&hide_title=true">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aurips&bg_color=ffffff&color=57606a&line=6366F1&point=06B6D4&area=true&area_color=6366F1&hide_border=true&hide_title=true" width="100%">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aurips&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&hide_title=true&radius=8" width="100%" alt="Contribution graph">
 
 </div>
 
 <br>
 
-<!-- ═══════════════ MORE ABOUT ME (click to expand) ═══════════════ -->
+<!-- ═══════════════ SECRETS ═══════════════ -->
 <details>
-<summary><b>✨ &nbsp;A bit more about me (click to expand)</b></summary>
+<summary><code>🔓 sudo cat /root/secrets.txt</code> &nbsp;(click to decrypt)</summary>
 
 <br>
 
-- 🎯 **My principle:** make it work, make it right, then make it fast.
-- 🎧 **Coding soundtrack:** lo-fi beats and instrumental playlists.
-- 📚 **Always reading:** docs, source code, and the occasional good book.
-- 🧪 **Side quests:** tiny experiments, open-source fixes, and weekend hacks.
-- ☕ **Fuel:** coffee, curiosity, and a good keyboard.
-- 💬 **Best way to reach me:** drop me an email, I reply fast.
+```bash
+[sudo] password for aurips: ********
+Access granted. Decrypting...
+
+> principle   : make it work, make it right, then make it fast
+> soundtrack  : lo-fi beats and synthwave
+> always      : reading docs, source code and the occasional good book
+> side quests : tiny experiments, open-source fixes, weekend hacks
+> fuel        : coffee, curiosity and a good keyboard
+```
 
 </details>
 
@@ -318,24 +301,24 @@ Git         █████████████████░░░  85%
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Let%27s+Connect" alt="Let's Connect">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+.%2Fconnect.sh" alt="connect">
 </div>
 
 <div align="center">
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" alt="chat" width="48" height="48">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" alt="signal" width="48" height="48">
 
-**Got an idea, a project, or just want to say hi? My inbox is always open.**
+**Got an idea, a project, or just want to say hi? The channel is always open.**
 
 <br>
 
-<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:you@email.com"><img src="https://img.shields.io/badge/SEND%20ME%20A%20MESSAGE-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email me"></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8b949e&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+stopping+by;Keep+building%2C+keep+shipping;Star+a+repo+if+you+liked+something" alt="footer typing">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1200&color=00FF41&background=0D1117&center=true&vCenter=true&width=640&height=38&lines=%3E+connection+closed.+see+you+in+the+next+commit.;%3E+keep+building.+keep+shipping.;%3E+star+a+repo+if+you+liked+something" alt="footer typing">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=150&section=footer&animation=twinkling" alt="footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:064e1e,100:00ff41&height=150&section=footer&animation=twinkling" alt="footer" width="100%">
 
 </div>
