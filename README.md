@@ -27,9 +27,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aurips&label=VISITORS&color=00FF41&labelColor=0D1117&style=flat-square" alt="views">
-<img src="https://img.shields.io/github/followers/aurips?label=FOLLOWERS&style=flat-square&color=00FF41&labelColor=0D1117&logo=github" alt="followers">
-<img src="https://img.shields.io/github/stars/aurips?label=STARS&style=flat-square&color=00FF41&labelColor=0D1117&logo=github" alt="stars">
+<img src="https://komarev.com/ghpvc/?username=aurips&label=VISITORS&color=166534&labelColor=0D1117&style=flat-square" alt="views">
+<img src="https://img.shields.io/github/followers/aurips?label=FOLLOWERS&style=flat-square&color=166534&labelColor=0D1117&logo=github" alt="followers">
+<img src="https://img.shields.io/github/stars/aurips?label=STARS&style=flat-square&color=166534&labelColor=0D1117&logo=github" alt="stars">
 
 </div>
 
@@ -208,10 +208,6 @@ Git         █████████████████░░░  85%
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurips&theme=github_dark" height="190" alt="Most used languages">
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aurips&theme=matrix&no-frame=true&margin-w=12&column=7" alt="Trophies">
-
 </div>
 
 <br>
@@ -261,19 +257,6 @@ Git         █████████████████░░░  85%
 
 <div align="center">
   <a href="https://github.com/aurips?tab=repositories"><img src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="Browse all repositories"></a>
-</div>
-
-<br>
-
-<!-- ═══════════════ ACTIVITY ═══════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=false&width=460&height=44&lines=%24+.%2Factivity+--graph" alt="activity">
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aurips&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&hide_title=true&radius=8" width="100%" alt="Contribution graph">
-
 </div>
 
 <br>
