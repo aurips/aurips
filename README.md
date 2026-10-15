@@ -1,8 +1,8 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║  QUICK SETUP: use Find & Replace on this whole file         ║
-     ║    YOUR_USERNAME  ->  your GitHub username                  ║
+     ║    (username already set to aurips)                  ║
      ║    YOUR NAME      ->  your real name                        ║
-     ║  Then edit the links, text and project names below.         ║
+     ║  Then edit the links, text, skill levels and project names. ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ═══════════════ HEADER ═══════════════ -->
@@ -12,7 +12,7 @@
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="wave" width="52" height="52">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/aurips">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=760&height=46&lines=Hey%2C+welcome+to+my+corner+of+GitHub;Building+clean+and+scalable+web+apps;Turning+complex+problems+into+simple+products;Open+source+enthusiast+%26+lifelong+learner;Let%27s+build+something+great+together" alt="typing animation">
 </a>
 
@@ -26,9 +26,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=6366F1&style=flat-square" alt="views">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=06B6D4&logo=github" alt="followers">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=6366F1&logo=github" alt="stars">
+<img src="https://komarev.com/ghpvc/?username=aurips&label=Profile%20views&color=6366F1&style=flat-square" alt="views">
+<img src="https://img.shields.io/github/followers/aurips?label=Followers&style=flat-square&color=06B6D4&logo=github" alt="followers">
+<img src="https://img.shields.io/github/stars/aurips?label=Stars&style=flat-square&color=6366F1&logo=github" alt="stars">
 
 </div>
 
@@ -103,7 +103,7 @@ I love turning complex problems into clean, maintainable solutions, and I'm alwa
 
 <br>
 
-<!-- ═══════════════ CURRENTLY ═══════════════ -->
+<!-- ═══════════════ RIGHT NOW ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Right+Now" alt="Right Now">
 </div>
@@ -121,7 +121,41 @@ I love turning complex problems into clean, maintainable solutions, and I'm alwa
 
 <br>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
+<!-- ═══════════════ JOURNEY ═══════════════ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=My+Journey" alt="My Journey">
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="48" alt="">
+      <br><b>20XX</b>
+      <br><sub>Started learning to code</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="48" alt="">
+      <br><b>20XX</b>
+      <br><sub>Built my first full-stack project</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" width="48" alt="">
+      <br><b>20XX</b>
+      <br><sub>Shipped to real users</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="48" alt="">
+      <br><b>Today</b>
+      <br><sub>Building, learning and sharing</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<!-- ═══════════════ TECH STACK (single horizontal row) ═══════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Tech+Stack" alt="Tech Stack">
 </div>
@@ -129,16 +163,48 @@ I love turning complex problems into clean, maintainable solutions, and I'm alwa
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,python,fastapi,tailwind,html,css&theme=dark&perline=12">
-  <img alt="Languages and frameworks" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,python,fastapi,tailwind,html,css&theme=light&perline=12">
-</picture>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,aws,linux,figma,vscode,postman&theme=dark&perline=12">
-  <img alt="Databases and tools" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,aws,linux,figma,vscode,postman&theme=light&perline=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,tailwind,html,css,postgres,mongodb,docker,git,figma&theme=dark&perline=15">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,tailwind,html,css,postgres,mongodb,docker,git,figma&theme=light&perline=15" width="100%">
 </picture>
 
 </div>
+
+<br>
+
+<!-- ═══════════════ SKILL LEVELS ═══════════════ -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Skill+Levels" alt="Skill Levels">
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+```text
+// Languages
+JavaScript  ██████████████████░░  90%
+TypeScript  ████████████████░░░░  80%
+Python      ███████████████░░░░░  75%
+HTML / CSS  ██████████████████░░  90%
+SQL         ██████████████░░░░░░  70%
+```
+
+</td>
+    <td width="50%" valign="top">
+
+```text
+// Frameworks & Tools
+React       █████████████████░░░  85%
+Node.js     ████████████████░░░░  80%
+Next.js     ███████████████░░░░░  75%
+Tailwind    ██████████████████░░  90%
+Docker      █████████████░░░░░░░  65%
+Git         █████████████████░░░  85%
+```
+
+</td>
+  </tr>
+</table>
 
 <br>
 
@@ -149,19 +215,32 @@ I love turning complex problems into clean, maintainable solutions, and I'm alwa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="185" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=aurips&show_icons=true&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="185" alt="GitHub stats">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=6366F1&text_color=8b949e&hide_border=true&langs_count=8" height="185" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurips&layout=compact&theme=transparent&title_color=6366F1&text_color=8b949e&hide_border=true&langs_count=8" height="185" alt="Top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="Streak stats">
+<img src="https://streak-stats.demolab.com?user=aurips&theme=transparent&hide_border=true&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="Streak stats">
+
+<br><br>
+
+<!-- Change utcOffset to your timezone's UTC offset (e.g. 0, 1, 5, -5) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurips&theme=github_dark&utcOffset=0">
+  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurips&theme=default&utcOffset=0" height="190">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurips&theme=github_dark">
+  <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurips&theme=default" height="190">
+</picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=7">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=aurips&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=aurips&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=7">
 </picture>
 
 </div>
@@ -177,25 +256,25 @@ I love turning complex problems into clean, maintainable solutions, and I'm alwa
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project One">
+      <a href="https://github.com/aurips/PROJECT_ONE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=PROJECT_ONE&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project One">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Two">
+      <a href="https://github.com/aurips/PROJECT_TWO">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=PROJECT_TWO&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Two">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Three">
+      <a href="https://github.com/aurips/PROJECT_THREE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=PROJECT_THREE&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Three">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Four">
+      <a href="https://github.com/aurips/PROJECT_FOUR">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurips&repo=PROJECT_FOUR&theme=transparent&title_color=6366F1&text_color=8b949e&icon_color=06B6D4&hide_border=true&border_radius=10" alt="Project Four">
       </a>
     </td>
   </tr>
@@ -212,11 +291,28 @@ I love turning complex problems into clean, maintainable solutions, and I'm alwa
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8b949e&line=6366F1&point=06B6D4&area=true&area_color=6366F1&hide_border=true&hide_title=true">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=57606a&line=6366F1&point=06B6D4&area=true&area_color=6366F1&hide_border=true&hide_title=true" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aurips&bg_color=0d1117&color=8b949e&line=6366F1&point=06B6D4&area=true&area_color=6366F1&hide_border=true&hide_title=true">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aurips&bg_color=ffffff&color=57606a&line=6366F1&point=06B6D4&area=true&area_color=6366F1&hide_border=true&hide_title=true" width="100%">
 </picture>
 
 </div>
+
+<br>
+
+<!-- ═══════════════ MORE ABOUT ME (click to expand) ═══════════════ -->
+<details>
+<summary><b>✨ &nbsp;A bit more about me (click to expand)</b></summary>
+
+<br>
+
+- 🎯 **My principle:** make it work, make it right, then make it fast.
+- 🎧 **Coding soundtrack:** lo-fi beats and instrumental playlists.
+- 📚 **Always reading:** docs, source code, and the occasional good book.
+- 🧪 **Side quests:** tiny experiments, open-source fixes, and weekend hacks.
+- ☕ **Fuel:** coffee, curiosity, and a good keyboard.
+- 💬 **Best way to reach me:** drop me an email, I reply fast.
+
+</details>
 
 <br>
 
