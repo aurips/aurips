@@ -25,7 +25,7 @@
 <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram"></a>
 <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"></a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=aurips&label=VISITORS&color=166534&labelColor=0D1117&style=flat-square" alt="views">
 <img src="https://img.shields.io/github/followers/aurips?label=FOLLOWERS&style=flat-square&color=166534&labelColor=0D1117&logo=github" alt="followers">
