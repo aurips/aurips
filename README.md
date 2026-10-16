@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF41&background=0D1117&center=true&vCenter=true&width=780&height=52&lines=%24+whoami;%3E+aurips+%3A%3A+full-stack+developer;%3E+initializing+creativity.exe+...;%3E+loading+modules%3A+react%2C+node%2C+python+...;%3E+ACCESS+GRANTED.+welcome%2C+human." alt="typing animation">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
