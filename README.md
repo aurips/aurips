@@ -101,7 +101,7 @@ aurips@mainframe:~$ ./vitals --all
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" width="40" alt=""><br><b>Working on</b><br><sub>PROJECT NAME</sub></td>
+    <td align="center"><img src="[https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif]" width="40" alt=""><br><b>Working on</b><br><sub>PROJECT NAME</sub></td>
     <td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="40" alt=""><br><b>Learning</b><br><sub>Rust & System Design</sub></td>
     <td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="40" alt=""><br><b>Open to</b><br><sub>Collabs & freelance</sub></td>
     <td align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40" alt=""><br><b>Goal</b><br><sub>Ship something every month</sub></td>
