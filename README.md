@@ -42,7 +42,9 @@
 
 ```bash
 aurips@mainframe:~$ whoami
-> YOUR NAME // Full-Stack Developer
+> Auritra Paul Shaumik // Full-Stack Developer
+> Computer Science Student
+> Founder @ APACREA
 
 aurips@mainframe:~$ cat mission.txt
 > Build clean, fast, and scalable software.
@@ -270,16 +272,24 @@ Git         █████████████████░░░  85%
 
 ```bash
 [sudo] password for aurips: ********
-Access granted. Decrypting...
+Authentication successful.
+Decrypting personal configuration...
 
-> principle   : make it work, make it right, then make it fast
-> soundtrack  : lo-fi beats and synthwave
-> always      : reading docs, source code and the occasional good book
-> side quests : tiny experiments, open-source fixes, weekend hacks
-> fuel        : coffee, curiosity and a good keyboard
+> identity     : developer by craft, founder by ambition
+> principle    : make it work, make it right, then make it fast
+> philosophy   : understand the system, not just the syntax
+> soundtrack   : lo-fi beats, synthwave and late-night focus
+> always       : reading docs, exploring ideas, learning something new
+> side quests  : experiments, open-source contributions, weekend builds
+> ambition     : turn APACREA into something meaningful
+> fuel         : coffee, curiosity and a good keyboard
+> weakness     : one more feature before calling it a day
+> sleep        : process terminated unexpectedly
+> final boss   : a bug that disappears when you add a print statement
 ```
 
 </details>
+
 
 <br>
 
