@@ -73,7 +73,7 @@ aurips@mainframe:~$ ./vitals --all
       <br><sub>Fast, responsive, accessible interfaces with React & Next.js</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="60" alt="">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699/512.gif" width="60" alt="⚙️">
       <br><b>Backend & APIs</b>
       <br><sub>Secure, scalable services with Node.js & Python</sub>
     </td>
