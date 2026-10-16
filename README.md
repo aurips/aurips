@@ -9,7 +9,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:064e1e,100:00ff41&height=270&section=header&text=AURIPS&fontSize=78&fontColor=00ff41&fontAlignY=36&animation=fadeIn&desc=%2F%2F%20Code.%20Break.%20Build.%20Repeat.&descSize=20&descAlignY=58" alt="header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:064e1e,100:00ff41&height=270&section=header&text=AURITRA&fontSize=78&fontColor=00ff41&fontAlignY=36&animation=fadeIn&desc=%2F%2F%20Code.%20Break.%20Build.%20Repeat.&descSize=20&descAlignY=58" alt="header" width="100%">
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="alien" width="52" height="52">
 
