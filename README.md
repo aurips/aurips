@@ -45,15 +45,16 @@ aurips@mainframe:~$ whoami
 > YOUR NAME // Full-Stack Developer
 
 aurips@mainframe:~$ cat mission.txt
-> Build clean, fast and scalable software.
-> Turn complex problems into simple products.
-> Never stop learning. Never stop shipping.
+> Build clean, fast, and scalable software.
+> Turn complex problems into elegant solutions.
+> Create things worth using. Keep learning. Keep shipping.
 
 aurips@mainframe:~$ ./vitals --all
-[ OK ]  Coffee .............. 100%
-[ OK ]  Curiosity ........... overclocked
-[ OK ]  Creativity .......... online
-[WARN]  Sleep ............... not found
+[  OK  ]  Coffee .............. 100%
+[  OK  ]  Curiosity ........... overclocked
+[  OK  ]  Creativity .......... online
+[  OK  ]  Ideas ............... compiling
+[ WARN ]  Sleep ............... not found
 ```
 
 <br>
